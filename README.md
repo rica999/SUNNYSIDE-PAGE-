@@ -1,19 +1,4 @@
 # sunny-agency-page
+Desafío Frontend Mentor hecho con Vue.js
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![desktop-design](https://user-images.githubusercontent.com/68082868/217407587-d420d464-e564-4446-8f4b-c76cd9c12e97.jpg)
